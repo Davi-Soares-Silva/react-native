@@ -5,6 +5,7 @@ import csgo from '../../images/category_csgo.jpg';
 import fortnite from '../../images/category_fortnite.jpg';
 import fallguys from '../../images/category_fallguys.jpg';
 import apex from '../../images/category_apex.jpg';
+
 export default [
   { name: 'League of Legends', source: lol },
   { name: 'VALORANT', source: valorant },

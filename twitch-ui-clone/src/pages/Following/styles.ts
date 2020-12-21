@@ -17,6 +17,4 @@ export const Container = styled.View`
   padding-left: 14px; 
 `;
 
-export const Main = styled.View`
-
-`;
+export const Main = styled.View``;

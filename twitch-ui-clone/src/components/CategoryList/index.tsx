@@ -3,6 +3,8 @@ import React from 'react';
 import { Text } from 'react-native';
 import data from './data';
 
+console.log(data);
+
 import {
   List,
   CategoryContainer,
